@@ -1,0 +1,12 @@
+
+180 SLIDES-FOR-THIS-SECTION
+https://www.canva.com/design/DAEWcidQeSI/m6VuuSGBgvBNsRcxfweqDA/view?utm_content=DAEWcidQeSI&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton
+
+185 Git-Alias-Github-Repo
+https://github.com/GitAlias/gitalias
+
+185 Must-Have-Git-Aliases-Blog-Post
+https://www.durdn.com/blog/2012/11/22/must-have-git-aliases-advanced-examples/
+
+185 The-Ultimate-Git-Alias-Setup
+https://gist.github.com/mwhite/6887990

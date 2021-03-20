@@ -1,0 +1,39 @@
+
+031 SLIDES-FOR-THIS-SECTION
+https://www.canva.com/design/DAEXMibkysc/4PgPWiQqZ5UwCxMruH6BmQ/view?utm_content=DAEXMibkysc&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton
+
+032 Git-Reference
+https://git-scm.com/docs
+
+034 Blog-Post-On-Git-Commit-Tense
+https://medium.com/@corrodedlotus/which-tense-should-be-used-on-a-git-commit-message-121cb641134b
+
+034 Another-Git-Tense-Blog-Post
+https://www.danclarke.com/git-tense
+
+034 Quora-Discussion-On-Commit-Tense
+https://www.quora.com/Which-tense-should-be-used-in-a-git-commit-message-past-present-and-why
+
+034 Stack-Overflow-Post
+https://stackoverflow.com/questions/3580013/should-i-use-past-or-present-tense-in-git-commit-messages
+
+035 Git-Editor-Config-Commands
+https://git-scm.com/book/en/v2/Appendix-C%3A-Git-Commands-Setup-and-Config
+
+036 Git-Log-Docs
+https://git-scm.com/docs/git-log
+
+038 Git-Commit-Docs
+https://git-scm.com/docs/git-commit
+
+039 Faker-Github-Repo
+https://github.com/marak/Faker.js/
+
+039 Tensorflow-Github-Repo
+https://github.com/tensorflow/tensorflow
+
+039 Signal-Github-Repo
+https://github.com/signalapp/Signal-Android
+
+039 gitignore.io
+https://www.toptal.com/developers/gitignore

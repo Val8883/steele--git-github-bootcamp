@@ -1,0 +1,12 @@
+
+123 SLIDES-FOR-THIS-SECTION
+https://www.canva.com/design/DAEP32iZwVc/4se77vKYGwT5_9NpxFbZoQ/view?utm_content=DAEP32iZwVc&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton
+
+129 React-Repo-Pull-Requests
+https://github.com/facebook/react/pulls
+
+134 2048-Original-Repo
+https://github.com/gabrielecirulli/2048
+
+134 2048-My-Fork
+https://github.com/Colt/2048

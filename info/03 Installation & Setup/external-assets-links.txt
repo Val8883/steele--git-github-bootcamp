@@ -1,0 +1,18 @@
+
+011 SLIDES-FOR-THIS-SECTION
+https://www.canva.com/design/DAEXMu7dx04/x1kkoUK-g_j6UtObmUwbDA/view?utm_content=DAEXMu7dx04&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton
+
+012 List-Of-Git-Clients
+https://git-scm.com/downloads/guis
+
+013 Git-For-Windows-Download
+https://git-scm.com/download/win
+
+013 VSCode-Download
+https://code.visualstudio.com/
+
+014 Mac-Git-Download-If-You-Need-To-Upgrade-Git-
+https://sourceforge.net/projects/git-osx-installer/
+
+016 GitKraken-Download
+https://www.gitkraken.com/

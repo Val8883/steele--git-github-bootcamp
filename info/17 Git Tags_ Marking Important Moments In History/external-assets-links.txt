@@ -1,0 +1,18 @@
+
+149 SLIDES-FOR-THIS-SECTION
+https://www.canva.com/design/DAEV5aEpUOQ/lfUIjJz2atC6fGT9KOv2kg/view?utm_content=DAEV5aEpUOQ&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton
+
+151 Semantic-Versioning-Spec
+https://semver.org/
+
+151 Bootstrap-Releases
+https://getbootstrap.com/docs/versions/
+
+151 React-Releases
+https://reactjs.org/versions/
+
+152 Git-Tag-Docs
+https://git-scm.com/docs/git-tag
+
+152 React-Github-Repo
+https://github.com/facebook/react

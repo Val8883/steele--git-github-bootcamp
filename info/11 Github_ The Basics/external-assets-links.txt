@@ -1,0 +1,30 @@
+
+090 SLIDES-FOR-THIS-SECTION
+https://www.canva.com/design/DAEPtdekgz0/L9rfbid7gCFMGEZBLJcmlw/view?utm_content=DAEPtdekgz0&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton
+
+091 Github-Home-Page
+https://github.com/
+
+092 React-Github-Repo
+https://github.com/facebook/react
+
+093 Git-Clone-Docs
+https://git-scm.com/docs/git-clone
+
+093 2048-Github-Repo
+https://github.com/gabrielecirulli/2048
+
+093 Hiring-Without-Whiteboards-Repo
+https://github.com/poteto/hiring-without-whiteboards
+
+094 Gitlab-Sample-Repo
+https://gitlab.com/gitlab-tests/sample-project
+
+095 Generating-and-Adding-SSH-Keys-Guide
+https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh
+
+098 Git-Push-Docs
+https://git-scm.com/docs/git-push
+
+103 Github-Basics-Exercise-Instructions
+https://www.notion.so/Github-Basics-Exercise-1c12200326db47d7890702017602d698

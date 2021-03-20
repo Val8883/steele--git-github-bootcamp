@@ -1,0 +1,42 @@
+
+113 SLIDES-FOR-THIS-SECTION
+https://www.canva.com/design/DAEVGSMC0ew/9f6udCe20KrYAfwoD0zqHA/view?utm_content=DAEVGSMC0ew&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton
+
+117 README-Demo-Repo-1
+https://github.com/jasontaylordev/CleanArchitecture
+
+117 README-Demo-Repo-2
+https://github.com/explosion/spaCy
+
+117 README-Demo-Repo-3
+https://github.com/facebook/react
+
+118 Markdown-Docs
+https://daringfireball.net/projects/markdown/
+
+118 Markdown-it
+https://markdown-it.github.io/
+
+120 Gists-Discover-Page
+https://gist.github.com/discover
+
+120 The-Gist-I-Copied-From
+https://gist.github.com/oanhnn/80a89405ab9023894df7
+
+121 Github-Pages
+https://pages.github.com/
+
+121 Faker-Repo
+https://github.com/marak/Faker.js/
+
+121 Faker-Github-Pages
+http://marak.github.io/faker.js/
+
+121 2048-AI-Repo
+https://github.com/ovolve/2048-AI
+
+121 2048-AI-Github-Pages
+http://ovolve.github.io/2048-AI/
+
+122 My-Chickens-Github-Pages-Demo
+https://colt.github.io/chickens/

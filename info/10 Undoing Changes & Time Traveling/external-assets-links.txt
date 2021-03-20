@@ -1,0 +1,15 @@
+
+080 SLIDES-FOR-THIS-SECTION
+https://www.canva.com/design/DAEPZZHOafo/uagxrNdvbI_wDpjfNpK_4w/view?utm_content=DAEPZZHOafo&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton
+
+085 Git-Restore-Docs
+https://git-scm.com/docs/git-restore
+
+087 Git-Reset-Docs
+https://git-scm.com/docs/git-reset
+
+088 Git-Revert-Docs
+https://git-scm.com/docs/git-revert
+
+089 Undoing-Things-Exercise-Instructions
+https://www.notion.so/Undoing-Things-Exercise-d2fc1825dcc047c291a9a960848fdf71
